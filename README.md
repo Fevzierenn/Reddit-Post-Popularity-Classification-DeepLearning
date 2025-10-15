@@ -57,7 +57,6 @@ Incorporate transformer-based models (e.g., BERT)
 
 Use time-series features for temporal analysis
 
-Expand to multi-class popularity levels
 
 #  Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
