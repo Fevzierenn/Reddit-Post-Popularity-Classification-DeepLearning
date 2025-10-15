@@ -23,8 +23,6 @@ Optimizer: Adam
 Evaluation Metrics: Accuracy, Precision, Recall, F1 Score
 
 #  Results
-Achieved ~XX% accuracy on test set (fill in actual value)
-
 Confusion matrix and ROC curve visualizations included
 
 Feature importance analysis for interpretability
