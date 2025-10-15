@@ -40,15 +40,17 @@ Feature importance analysis for interpretability
 #  How to Run
 
 bash
+<pre>
 git clone https://github.com/Fevzierenn/Reddit-Post-Popularity-Classification-DeepLearning.git
 cd Reddit-Post-Popularity-Classification-DeepLearning
 jupyter notebook redditPopularityDL_v2.ipynb
-Make sure to install required packages:
+</pre>
 
 
 bash
+<pre>
 pip install -r requirements.txt
-
+</pre>
 
 # Future Work
 Incorporate transformer-based models (e.g., BERT)
