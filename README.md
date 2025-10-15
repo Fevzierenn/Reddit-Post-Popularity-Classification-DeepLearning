@@ -9,15 +9,7 @@ Source: Reddit API / Pushshift
 
 Features used:
 
-Post title and body
-
-Subreddit name
-
-Number of comments
-
-Upvote ratio
-
-Time of posting
+id,title,score,upvote_ratio,num_comments,created_utc,is_self,selftext,subreddit
 
  # Model Architecture
 Text Embedding: TF-IDF or pretrained embeddings (e.g., GloVe)
