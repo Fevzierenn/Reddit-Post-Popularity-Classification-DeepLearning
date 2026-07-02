@@ -1,5 +1,5 @@
 # Reddit-Post-Popularity-Classification-DeepLearning
-🔍 Problem Statement
+Problem Statement
 Can we predict whether a Reddit post will be popular based on its content and metadata?
 
 This project formulates the task as a binary classification problem, where posts are labeled as popular or not popular based on upvote thresholds.
